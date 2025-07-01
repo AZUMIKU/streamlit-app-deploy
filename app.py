@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("実験的APP: 文字＆BMI")
+st.title("実験的APP: 文字＆肥満度計算")
 
 st.write("##### 動作モード1: 文字数カウント")
 st.write("入力フォームにテキストを入力し、「実行」ボタンを押すことで文字数をカウントできます。")
